@@ -1,0 +1,16 @@
+metric,observed_min,observed_max
+irradiance,-7999.0,2646.875
+dc_power,-7999.0,3070.324
+ac_power,-1748.718,7809.0
+dc_voltage,-0.2762,2011.0
+dc_current,-7999.0,289.0
+ac_voltage,-0.006768195,278.0902
+ac_current,-3.0517,2154.0
+ambient_temp,-7999.0,129934.0
+module_temp_1,-7999.0,3276.7
+module_temp_2,-7999.0,3276.7
+module_temp_3,-7999.0,3276.7
+inverter_temp,-7999.0,586.1583
+panel_temp,-25.9952,45.95049
+battery_voltage,0.0,244.1692
+power_factor,-0.9995275,2011.0
